@@ -1,8 +1,11 @@
 ---
 layout: post
-title: Sqoop tutorial
+title: Sqoop
+subtitle: An introductory tutorial to Apache Sqoop
+tags: [Sqoop, data ingestion]
 image: /img/hello_world.jpeg
 ---
+
 
 ## Introduction
 In this tutorial, we would try present Apache sqoop. It is an Open source tool that is supported by the Apache Software Foundation. According to the project's [pages](http://sqoop.apache.org/) :
@@ -217,8 +220,8 @@ sqoop job --show <<job_name>>
 
 [OOzie](http://oozie.apache.org/) can be used for sqoop jobs scheduling.
 
-
-***Important Note:***
+{: .box-warning}
+**Warning:** 
 _Sqoop metastore doesn't store passwords. In order to unable sqoop asking passwords for subsequent executions, we need to update the *sqoop.metastore.client.password property* by setting its value to true._
 
 
