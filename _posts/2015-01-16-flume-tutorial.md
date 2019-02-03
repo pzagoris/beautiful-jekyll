@@ -1,6 +1,8 @@
 ---
 layout: post
-title: Flume introductory tutorial
+title: Flume 
+subtitle: An introductory tutorial to Apache Flume
+tags: [Flume, data ingestion]
 ---
 
 ### Introduction
