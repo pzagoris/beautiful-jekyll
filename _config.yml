@@ -17,7 +17,7 @@ baseurl: ""
 title: My website here is its
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: A virtual proof that Panagos is awesome!
 
 # --- Navigation bar options --- #
 
@@ -99,7 +99,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "pzagoris.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
