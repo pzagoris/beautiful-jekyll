@@ -4,8 +4,6 @@ title: Sqoop tutorial
 image: /img/hello_world.jpeg
 ---
 
-## Sqoop tutorial
-
 ## Introduction
 In this tutorial, we would try present Apache sqoop. It is an Open source tool that is supported by the Apache Software Foundation. According to the project's [pages](http://sqoop.apache.org/) :
 
