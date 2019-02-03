@@ -86,10 +86,10 @@ Flume supports many types of [Sinks](http://flume.apache.org/releases/content/1.
 ....
 
 
-### Warning
-{: .box-warning}
-**Important Note:** Except from the in-built Flume components (Source, Channel, Sink), we can create our own custom components.
+### Notification
 
+{: .box-note}
+**Note:** Except from the in-built Flume components (Source, Channel, Sink), we can create our own custom components.
 
 ### Starting an agent
 
