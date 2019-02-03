@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First post!
+title: Sqoop tutorial
 image: /img/hello_world.jpeg
 ---
 
