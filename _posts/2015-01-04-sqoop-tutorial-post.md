@@ -222,6 +222,6 @@ sqoop job --show <<job_name>>
 
 {: .box-warning}
 **Note:** 
-_Sqoop metastore doesn't store passwords. In order to unable sqoop asking passwords for subsequent executions, we need to update the sqoop.metastore.client.password property by setting its value to true._
+Sqoop metastore doesn't store passwords. In order to unable sqoop asking passwords for subsequent executions, we need to update the _sqoop.metastore.client.password_ property by setting its value to true.
 
 
