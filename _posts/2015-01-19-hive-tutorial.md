@@ -1,7 +1,8 @@
 ---
 layout: post
-title: hive
-subtitle: introductory tutorial
+title: Hive
+subtitle: An introductory tutorial to Apache Hive
+tags: [Hive, HiveQL]
 ---
 
 ## Introduction
@@ -46,9 +47,6 @@ Hive scripts can be executed in the following 3 script engines:
 
 ### How to Connect to Hive.
 
-ftiakse ena pinaka me tis diafores: 
-http://dwgeek.com/difference-between-hive-cli-and-beeline-client-hive-vs-beeline.html/
-
 There are 4 different ways to connect to Hive:
 - Hive Command line Interface
 - Beeline sql client
@@ -84,10 +82,9 @@ Hive data is organized into:
 ### Data types
 More information about the datatypes could be found in the project documentation wiki [pages](https://cwiki.apache.org/confluence/display/Hive/LanguageManual+Types). For a short description on the data types you can also check [2](https://www.tutorialspoint.com/hive/hive_data_types.htm)
 
-```markdown
-***Important Note:***
-	Hive supports complex data types like arrays, maps and structs
-```
+{: .box-note}
+Hive supports complex data types like arrays, maps and structs.
+
 
 ### Hive Query Language
 In this article, we are going to present just the basic commands. For more information about the HIVEQL, please refer to the official [documentation](https://cwiki.apache.org/confluence/display/Hive/LanguageManual).
@@ -122,7 +119,10 @@ _Get formatted information about a table and where is the location of the table 
 ```markdown
 describe formatted <<table name>>:
 ```
-*Important Note*: Every file that is placed in the hdfs location of a hive table is content of that table
+
+{: .box-warning}
+**Note:** Every file that is placed in the hdfs location of a hive table is content of that table
+
 
 
 _Create an external table_
