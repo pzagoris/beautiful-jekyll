@@ -3,6 +3,7 @@ layout: post
 title: Hive
 subtitle: An introductory tutorial to Apache Hive
 tags: [Hive, HiveQL]
+image: /img/hiveIcon.PNG
 ---
 
 ## Introduction
