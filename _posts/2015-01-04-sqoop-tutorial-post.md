@@ -3,7 +3,7 @@ layout: post
 title: Sqoop
 subtitle: An introductory tutorial to Apache Sqoop
 tags: [Sqoop, data ingestion]
-bigimg: /img/pamvotis.png
+bigimg: /img/pamvotis.PNG
 ---
 
 
