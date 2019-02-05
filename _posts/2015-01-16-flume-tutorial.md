@@ -3,6 +3,7 @@ layout: post
 title: Flume 
 subtitle: An introductory tutorial to Apache Flume
 tags: [Flume, data ingestion]
+image: /img/flumeIcon.PNG
 ---
 
 ### Introduction
